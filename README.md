@@ -3,7 +3,7 @@ Windows notepad by Qt 5.3
 
 ## Functions
 
-用Qt实现了Windows记事本所有功能
+用Qt实现了Windows记事本所有功能(就差个状态栏了)
 
 包含拖拽读取，以及读取时判断文件编码的功能
 
